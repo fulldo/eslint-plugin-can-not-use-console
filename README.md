@@ -31,7 +31,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
   "rules": {
-    "can-not-use-console/can-not-use-console": 2
+    "can-not-use-console/remove-log": 2
   }
 }
 ```
